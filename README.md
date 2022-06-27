@@ -5,7 +5,7 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/Douglas2893/projeto-meu-portifolio/blob/main/README.md)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douuglas_p/)
 
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas2893&show_icons=true&theme=dracula)
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas2893&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas2893&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia-a-dia
 
